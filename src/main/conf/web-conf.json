@@ -1,0 +1,9 @@
+{
+  "http.port" : 8585,
+  "query.string.maxlength": 500,
+  "query.languagepair.separator": "|",
+  "query.of.default": "json",
+  "query.of.values": ["json","tmx","serialized php array"],
+  "es.host": "localhost",
+  "es.port": 9300
+}
